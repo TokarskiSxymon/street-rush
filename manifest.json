@@ -1,0 +1,12 @@
+{
+"id": "./",
+"name": "Street Rush",
+"short_name": "Street Rush",
+"description": "An exciting arcade racing game. Dodge traffic, avoid obstacles and beat your high score!",
+"start_url": "./",
+"scope": "./",
+"display": "standalone",
+"orientation": "landscape",
+"background_color": "#080d17",
+"theme_color": "#080d17"
+}
